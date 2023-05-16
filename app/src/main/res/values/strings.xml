@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MPLusuarios</string>
+    <string name="spngentexto">Genero</string>
+    <string name="spnregtexto">Region</string>
+    <string name="spnesptexto">Especialidad</string>
+
 </resources>
